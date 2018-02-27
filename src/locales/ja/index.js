@@ -5,31 +5,31 @@ export default {
   anime: 'アニメ',
   manga: 'マンガ',
   login: {
-    login: 'Login',
-    emailLabel: 'Email / Username',
-    emailPlaceholder: 'Your Email or Username',
-    passwordLabel: 'Password',
-    passwordPlaceholder: 'Your Password',
-    loginWithKitsu: 'Login with @:kitsu'
+    login: 'ログイン',
+    emailLabel: 'メール / ユーザー名',
+    emailPlaceholder: 'あなたのメールアドレスやユーザー名',
+    passwordLabel: 'パスワード',
+    passwordPlaceholder: 'あなたのパスワード',
+    loginWithKitsu: '@:kitsuでログインする'
   },
   loggedIn: {
     profile: 'プロファイル',
-    preferences: 'Preferences',
-    logout: 'Logout'
+    preferences: '設定',
+    logout: 'ログアウト'
   },
   navigation: {
     library: 'ライブラリー',
     anime: '@:anime',
     manga: '@:manga',
-    bugs: 'Bugs & Features'
+    bugs: 'バグと特徴'
   },
   footer: {
     builtBy: '{0} by {1}',
-    sourceCode: 'Source code licensed under {0}',
-    contentProvidedBy: 'All content provided by {0}'
+    sourceCode: '{0}でライセンスされたソースコード',
+    contentProvidedBy: '{0}によって提供された全てのコンテンツ'
   },
   landing: {
-    title: 'Track, Share & Discover {0}',
-    subtitle: 'An Open Source Vue client for Kitsu.io'
+    title: 'トラック、共有、ディスカバー {0}',
+    subtitle: 'Kitsu.ioのオープンソースのVueクライアント'
   }
 }
